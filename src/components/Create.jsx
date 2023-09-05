@@ -33,6 +33,8 @@ const Create = () => {
   return (
     <div>
       <h3 className='mt-5'>Create</h3>
+      <h3 className='mt-5'>Create</h3>
+      <h3 className='mt-5'>Create</h3>
       <div className="container w-50 mt-5">
         <div className="card p-5">
           <FloatingLabel
